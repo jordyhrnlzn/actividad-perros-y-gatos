@@ -1,6 +1,11 @@
 .fondo{
-    background-image: url('fondo003.png');
+    background-image: url('mascotas-a.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
+}
+
+.bordee{
+    border: 10px solid aqua;
+    border-radius: 10pc;
 }
