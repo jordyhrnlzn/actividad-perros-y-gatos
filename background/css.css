@@ -1,0 +1,6 @@
+.fondo{
+    background-image: url('fondo003.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}

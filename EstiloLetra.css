@@ -1,0 +1,32 @@
+.Fuenteletra {
+    font-size: 20px;
+    font-weight: 400;
+    font-style: Arial;
+    color: white;
+}
+
+.FontLink {
+    font-size: 20px;
+    font-weight: 400;
+    font-style: Arial;
+    color: white;
+    padding-left: 50px;
+}
+
+.NINA {
+    font-size: 20px;
+    font-weight: 400;
+    font-style: Arial;
+    color: white;
+    padding-left: 70px;
+}
+
+.VolverBottom {
+    font-size: 30px;
+    font-weight: 400;
+    font-style: Arial;
+    color: white;
+    margin-top: 120px;
+    background-color: black;
+    text-align: left;
+}

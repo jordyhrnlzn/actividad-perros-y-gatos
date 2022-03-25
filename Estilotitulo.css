@@ -1,0 +1,21 @@
+.Fuentetitulo {
+    font-size: 60px;
+    font-weight: 400;
+    font-style: Arial;
+    color: white;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.Fuentetitsombra {
+    font-size: 60px;
+    font-weight: 400;
+    font-style: Arial;
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    background-color: black;
+}
