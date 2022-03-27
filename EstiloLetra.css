@@ -45,3 +45,21 @@
     background-color: rgb(36, 36, 36);
     text-align: left;
 }
+
+.box {
+    background-color: var(--bg);
+    border-radius: 1.5rem;
+    display: grid;
+    height: calc(100vh - 27rem);
+    padding: 6rem;
+    place-items: center;
+  }
+
+  .estilos{
+      -webkit-text-fill-color: black;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 30px;
+      -webkit-text-stroke: 1px;
+      -webkit-text-stroke-color:white;
+
+  }
