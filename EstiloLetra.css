@@ -100,5 +100,18 @@
     margin-left: 300px;
   }
 
+  .fonttext{
+    background-color:rgba(0, 0, 0, 0.623);
+    border-radius: 2%;
+    text-align: center;
+    margin-block-end: 70px;
+    margin-right: 300px; 
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+    margin-bottom: 100px;
+   }
 
  

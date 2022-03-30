@@ -9,3 +9,23 @@
     border: 10px solid aqua;
     border-radius: 10pc;
 }
+
+body{
+    height: 100%;
+}
+
+.backback{
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.ima{
+    border-radius: 8px;
+}
+
+.asusa{
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+}
